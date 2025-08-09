@@ -18,7 +18,7 @@ struct ContentView: View {
 
     var body: some View {
         NavigationView {
-            Text("Select an item")
+            Text("Hello World")
         }
     }
 
